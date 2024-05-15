@@ -1,0 +1,91 @@
+#code{
+    border: 2px solid black;
+    width: 700px;
+    height: 620px;
+    margin-left: 320px;
+    background:url("game1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#h1{
+    text-align: center;
+    margin-left: 80px;
+}
+.a{
+    border: none;
+    background: none;
+}
+.a:hover{
+    box-shadow: 5px 5px 5px red;
+}
+#child{
+    margin-left: 190px;
+    margin-top: 170px;
+}
+#button{
+    margin-left:00px;
+    padding-top:60px;
+    padding-left: 80px;
+    
+}
+
+#reset{
+     padding: 10px;
+     width: 100px;
+     height: 40px;
+     margin-right: 14px;
+     font-size: 15px;
+     border: none;
+}
+#reset:hover{
+    box-shadow: 5px 5px 5px black;
+}
+
+#autoplay{
+    padding: 10px;
+     width: 100px;
+     height: 40px;
+     font-size: 15px;
+     border: none;
+}
+#autoplay:hover{
+   box-shadow: 5px 5px 5px black;
+}
+#para{
+  display: flex;
+  justify-content: center;
+   padding-top: 50px;
+}
+#u{
+    margin-right: 60px;
+    font-size: 20px;
+}
+#s{
+    margin-right: 20px;
+    font-size: 20px;
+}
+
+#res{
+    margin-left: 50px;
+    font-size: 20px;
+}
+#span{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+
+}
+#win{
+    margin-right: 190px;
+    margin-left: 20px;
+    font-size: 20px;
+
+}
+#lose{
+    margin-right: 150px;
+    font-size: 20px;
+}
+#tie{
+    margin-left: 50px;
+    font-size: 20px;
+}
